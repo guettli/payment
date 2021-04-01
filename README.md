@@ -12,3 +12,5 @@ Forum: https://www.finanzfrage.net/
 Kill-Bill open source payment plattform: https://github.com/killbill/killbill
 
 Django+Stripe: https://github.com/dj-stripe/dj-stripe 
+
+https://github.com/jazzband/django-payments
