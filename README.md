@@ -7,3 +7,4 @@ SEPA.XML can be read by [Jameica / Hibiscus](https://www.willuhn.de/wiki/doku.ph
 https://de.wikipedia.org/wiki/Lastschrift is wrong "Unterschrift" is not required.
 
 
+Forum: https://www.finanzfrage.net/
